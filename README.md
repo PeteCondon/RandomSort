@@ -1,4 +1,4 @@
-andom Sort
+# Random Sort
 
 This project implements the Random Sort algorithm, the theory is described in detail here: https://medium.com/@pete.b.condon/estimating-aggregate-variance-introducing-random-sort-b296da196788
  
